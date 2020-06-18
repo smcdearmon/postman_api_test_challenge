@@ -9,6 +9,9 @@
 * Authorization - Bearer Token (different per environment)
 * Headers - Key:Content-Type | Value:application/json
 * Body Type - JSON/raw (see json_body_format in repo)
+* Required Information
+ * firstname
+ * crmKey
 
 <h3>Stage Information</h3>
 

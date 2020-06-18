@@ -1,0 +1,17 @@
+{
+  "firstname": "", 
+  "lastname": "",
+  "address": "",
+  "city": "",  
+  "stateProvince": "",
+  "postalCode": "",
+  "primaryPhone": "",
+  "secondaryPhone": "",
+  "phoneExt": "",
+  "secondaryPhoneExt": "",
+  "email": "",
+  "comments": "",
+  "crmKey": "provided on Readme file"
+}
+
+Varible firstname is required
